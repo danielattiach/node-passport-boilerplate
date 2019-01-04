@@ -9,7 +9,7 @@ git clone https://github.com/danielattiach/node-passport-boilerplate.git
 ```
 2. Make sure you have all the dependencies listen in package.json
 
-3.Run it:
+3. Run it:
 ```
 npm run dev
 ```
